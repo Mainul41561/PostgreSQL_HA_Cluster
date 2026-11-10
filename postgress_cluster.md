@@ -1088,7 +1088,7 @@ sudo firewall-cmd --reload
 
 ---
 
-# 18. Final Validation Checklist
+# 17. Final Validation Checklist
 
 Use this checklist after deployment.
 ```
